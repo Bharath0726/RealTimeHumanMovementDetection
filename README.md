@@ -1,6 +1,6 @@
-# RealTimeHumanMovementDetection
+# RealTimeHumanMovementDetection 
 
-REAL TIME HUMAN MOVEMENT DETECTION USING Raspberry PI having database IOT CLOUD STORAGE
+REAL TIME HUMAN MOVEMENT DETECTION USING Raspberry PI having database IOT CLOUD STORAGE (Academic Project)
 
 Turkish Online journal of qualitative inquiry 
 #Publication: https://www.tojqi.net/index.php/journal/article/view/1696
@@ -12,3 +12,17 @@ The main purpose of our project is to enhance some issues in security camera. As
 
 
  The source code language used is python and the algorithm followed is Open CV.
+ 
+ 
+ 
+ 
+ 
+
+https://user-images.githubusercontent.com/83293682/194923427-144476b3-28a7-4262-8747-48ec2ddf5e2c.mp4
+
+
+ 
+ 
+ 
+ 
+ 
